@@ -23,8 +23,3 @@ El objetivo principal es facilitar la organización diaria del complejo deportiv
 ## 🎯 Enfoque del proyecto
 
 Este sistema está orientado al rol del encargado, no al cliente final, priorizando la claridad de la información y la facilidad de gestión de los turnos.
-
-
-
-
-
