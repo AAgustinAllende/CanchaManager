@@ -19,6 +19,14 @@ El objetivo principal es facilitar la organización diaria del complejo deportiv
 - Backend: C#
 - Base de datos: SQL Server 
 
+## ⚙️ Backend
+
+El backend del sistema está desarrollado en ASP.NET (C#) y utiliza SQL Server para la persistencia de los datos.
+
+Actualmente el backend funciona en entorno local, ya que el despliegue de este stack requiere infraestructura paga.  
+Para el portfolio web se presenta la interfaz frontend y el flujo funcional del sistema.
+
+
 
 ## 🎯 Enfoque del proyecto
 
